@@ -123,10 +123,10 @@ function activeClass($page) {
 define('SHOP_WHATSAPP_NUMBER', '+94 77 612 7170');
 
 // Shop letterhead / branding details, used on the printable job sheet.
-define('SHOP_PHONE_DISPLAY', '077 612 7170');
+define('SHOP_PHONE_DISPLAY', '071 234 5678');
 define('SHOP_WEBSITE', 'www.gadgetz.lk');
-define('SHOP_ADDRESS_LINE1', '7/1A Alexandra Road');
-define('SHOP_ADDRESS_LINE2', 'Colombo 06');
+define('SHOP_ADDRESS_LINE1', '7/7 Colombo 00');
+define('SHOP_ADDRESS_LINE2', 'Colombo 00');
 
 /**
  * Normalize a locally-stored phone number (e.g. "0771234567") into the
